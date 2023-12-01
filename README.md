@@ -1,8 +1,8 @@
 # **Hallöchen!**
 
->**Hier findet man alle WeakAuren, welche Ich über die Zeit hinweg entwicklt habe beziehungsweise schon immer genutzt habe.**
+>**All meine Crafter Macros**
 
-Standpunkt: 23.12.2020
+Standpunkt: 1.12.2023
 
 ---
 

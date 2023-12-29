@@ -12,66 +12,17 @@ Standpunkt: 1.12.2023
 1. XVM
 >Als erstes findet man die übliche Aura, welche einen Kreis um den Cursor formt. Dazu gibt es einen GCD Kreis, welcher anzeigt, wann dieser abgelaufen ist.
 
-[XVM](https://modxvm.com/en/)
+[Link](https://modxvm.com/en/)
+
+2. Better Reticle Size
+>Filler
+
+[Link](https://wgmods.net/6349/)
 
 </details>
 
 ---
 
-## **Covenant Auren**
+## **Screenshots**
 <details hide>
-
-1. Fleischformung
->In der Mitte des Icons wird angezeigt wie lange der Buff selbst noch hält und über dem Icon deutlich zu sehen wie hoch der verhinderte Schaden ist.
-
-[Fleischformung](https://raw.githubusercontent.com/rhialen/weakauras/main/Covenant/Fleischformung.txt)
-
-</details>
-
----
-
-## **Mythisch Plus**
-<details hide>
-
-1. Spiteful/Boshaft
->Eine kleine Anzeige samt einem Signalton, wenn Ihr in einem Dungeon von einem Schemen verfolgt werdet.
-
-[Spiteful/Boshaft](https://raw.githubusercontent.com/rhialen/weakauras/main/MythicPlus/Spiteful.txt)
-
-</details>
-
----
-
-## **Schamane**
-<details hide>
-
-1. Sprit Link
->In der Mitte wird angezeigt, wie lange Spirit Link noch läuft und an der linken Seite wieviele Spieler sich im Kreis befinden.
-
-[Sprit Link](https://raw.githubusercontent.com/rhialen/weakauras/main/Schamane/Spirit%20Link.txt)
-
-</details>
-
----
-
-## **Paladin**
-<details hide>
-
-1. Holy Power Bar
->Eine Leiste in der alle 5 Holy Power angezeigt werden, jeder Holy Power stellt sich in Weiß dar und ab 3 Holy Power, wechselt sich die Farbe auf Lila und es ertönt ein Signalton.
-
-[Holy Power Bar](https://raw.githubusercontent.com/rhialen/weakauras/main/Paladin/Holy%20Power%20Bar.txt)
-
-</details>
-
----
-
-## **Jäger**
-<details hide>
-
-1. Buff Anzeige + Covenant Fähigkeit (Nightfae)
->Eine einfache dynamische Gruppe für die Buffs des Jägers, aber nur die wichtigen.
-
-[Buff Group](https://raw.githubusercontent.com/rhialen/weakauras/main/J%C3%A4ger/Buffs%20%2B%20Covenant.txt)
-
 </details>

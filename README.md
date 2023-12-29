@@ -19,6 +19,11 @@ Standpunkt: 1.12.2023
 
 [Link](https://wgmods.net/6349/)
 
+3. Armor Calculator Pro
+>Filler
+
+[Link](https://wgmods.net/6445/)
+
 </details>
 
 ---
